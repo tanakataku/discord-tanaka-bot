@@ -1,0 +1,25 @@
+{
+  "name": "discord-tanaka-bot",
+  "version": "1.0.0",
+  "description": "Discord.jsでBOTを作っているTANAKAのBOTです",
+  "main": "./src/main_tanaka.js",
+  "scripts": {
+    "test": "tanaka oishii"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanakataku/discord-tanaka-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "TANAKA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanakataku/discord-tanaka-bot/issues"
+  },
+  "homepage": "https://github.com/tanakataku/discord-tanaka-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
