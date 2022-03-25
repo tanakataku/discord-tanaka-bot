@@ -5,7 +5,7 @@ module.exports={
     },
     run:{
         tanaka(discord,data){
-            discord.i.reply(data.map(command=>`commandname:${command.name},description:${command.description}`).join("/n"))
+            discord.i.reply(data.map(command=>`commandname:${command.name},description:${command.description}`).join("/n"));
         }
     }
 }
