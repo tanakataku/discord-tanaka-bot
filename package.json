@@ -4,7 +4,7 @@
   "description": "Discord.jsでBOTを作っているTANAKAのBOTです",
   "main": "./src/main_tanaka.js",
   "scripts": {
-    "test": "tanaka oishii"
+    "test": "node ./src/main_tanaka.js"
   },
   "repository": {
     "type": "git",
