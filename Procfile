@@ -1,1 +1,1 @@
-tanaka:npm start
+tanaka: npm start
