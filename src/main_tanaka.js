@@ -23,3 +23,4 @@ client.on("interactionCreate", interaction => {
   };
 });
 client.login(process.env.token);
+//test
