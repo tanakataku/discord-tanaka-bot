@@ -12,7 +12,7 @@ for (const file of commandFiles) {
 };
 client.on("ready", async () => {
     console.log(data)
- await client.application.commands.set(data, '956839228317265980');
+ await client.application.commands.set(data, '949959150585151519');
 });
 client.on("interactionCreate", interaction => {
   if (!interaction.isCommand()) return;
