@@ -22,5 +22,5 @@ client.on("interactionCreate", interaction => {
     console.log(e);
   };
 });
-client.login("OTU1MDQyNDYxNDM1MTc0OTQz.Yjb6mg.Ligh7KWnZ8OpWvsM_vy6fbax8BM");
+client.login(process.env.token);
 //test
